@@ -191,7 +191,7 @@
 !!! warning
     Comme précisé dans le PDF de la première synthèse d'éco lors du Q1, il ne s'agit pas d'un résumé exhaustif de la matière. Mais bien de ma synthèse que je vous partage, parce que je suis gentil.
 
-    Ce qui implique qu'il y a des choses qui peuvent manquer, voir des choses qui euvent être incorrectes. A vous de rester attentif en tout temps pour éviter ces problèmes malencontreux.
+    Ce qui implique qu'il y a des choses qui peuvent manquer, voir des choses qui peuvent être incorrectes. A vous de rester attentif en tout temps pour éviter ces problèmes malencontreux.
 
     Mais il est intéressant de savoir que vous pouvez vous aussi participer à cette synthèse ! Elle est mise en ligne sur GitHub au format Markdown à l'adresse : https://github.com/3lk1ns/GTO-eco-successpack . Si vous n'êtes pas à l'aise avec github, vous pouvez toujours me reporter des erreurs/manquements par mail à clement.delzotti@student.unamur.be , sur Discord en mentionnant @GTO ou sur Facebook.
 
