@@ -9,5 +9,5 @@ Synthèse en Markdown de la deuxième partie du cours de notre gentil Alain
    1. Markdown All in One
    2. Markdown Extended
    3. Markdown Preview Mermaid Support
-3. Il vous faut ensuite ouvrir un fichier .md de la synthèse pour y voir le contenu. Faites le raccourci clavier **CTRL + K** suivi de **V** pour visualiser la magnifiue mise en page !
+3. Il vous faut ensuite ouvrir un fichier .md de la synthèse pour y voir le contenu. Faites le raccourci clavier **CTRL + K** suivi de **V** pour visualiser la magnifique mise en page !
 4. Admirer
