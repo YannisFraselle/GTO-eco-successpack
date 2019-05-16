@@ -195,12 +195,12 @@
 
     Mais il est intéressant de savoir que vous pouvez vous aussi participer à cette synthèse ! Elle est mise en ligne sur GitHub au format Markdown à l'adresse : https://github.com/3lk1ns/GTO-eco-successpack . Si vous n'êtes pas à l'aise avec github, vous pouvez toujours me reporter des erreurs/manquements par mail à clement.delzotti@student.unamur.be , sur Discord en mentionnant @GTO ou sur Facebook.
 
-    Amusez vous bien,
+    Amusez-vous bien,
     </br>
     DELZOTTI Clément
 
 !!! info Version
-    Nous somme actuellement à la version : **0.1**
+    Nous sommes actuellement à la version : **0.1.1**
 
 !!! success Récemment corrigé
     Que dalle, c'est la première version :3
@@ -211,4 +211,4 @@
     - Une release en format HTML
 
 !!! tip Les bons conseils
-    Refaites les TPs, TOUT les TPs.
+    Refaites les TPs, TOUS les TPs.
