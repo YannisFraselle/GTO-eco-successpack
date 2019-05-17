@@ -204,7 +204,7 @@ C'est cela qui a un prix lors d'un prêt, et qui explique l'existence d'intérê
 
 <img src="../attachment/eco22.png"/>
 
-$V_F = V_A(1 + i) \Leftrightarrow V_A = \frac{V_F}{(1 + i)}$
+$V_F = V_A(1 + i) \Leftrightarrow V_A = \frac{V_F}{(1 + i)}$ &nbsp;
 
 - La **Valeur actualisée** est le montant que l'on peut emprunter au temps t en échange de la cession du montant futur Y au temps t + s
 - La **valeur future** est le montant qu'on peut obtenir au temps t + s en échange du dépôt immédiat de ce montant
@@ -219,7 +219,7 @@ $Y_{c, t+n} = Y(1 + i)^n$
 
 Facteurs d'inflation : $\frac{P^{e}_{t+1}}{P_t} = (1 + \Pi^e)$
 
-Facteur d'intérêt réel : $1 + r^e = \frac{Q^e_{t + 1}}{Q_t}$
+Facteur d'intérêt réel : $1 + r^e = \frac{Q^e_{t + 1}}{Q_t}$ &nbsp;
 
 Facteur d'intérêt npminal : $\frac{VF}{VA} = (1 + \Pi^e)(1 + r^e) = 1 + i$
 
@@ -235,7 +235,7 @@ Prime de risque : Taux supplémentaire, généralement à la tête du client, d�
 
 Sans épargne, il n'est possible de consommer que ce qu'on possède à l'instant t. Si on ne gange rien à l'instant t + 1, alors je ne consomme rien
 
-$C_t = A_t$ et $C_{t + 1} = A_{t+1}$
+$C_t = A_t$ et $C_{t + 1} = A_{t+1}$ &nbsp;
 
 Et si je peux emprunter :
 
@@ -251,7 +251,7 @@ Demande de prêt pour financer une production : Louer l'argent pour acheter l'é
 
 #### Courbe de demande
 
-<img src="../attachment/eco24.png.png"/>
+<img src="../attachment/eco24.png"/>
 
 ## Offre de fonds prêtables
 
