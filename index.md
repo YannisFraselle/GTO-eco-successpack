@@ -184,11 +184,19 @@
         {
           list-style-type: lower-roman;
         }
+
+        /** sommaire effets **/
+
+        .sommaire li a
+        {
+          color : lightblue;
+        }
+
 </style>
 
 # Synthèse d'éco Q2 2018-19
 
-!!! warning
+!!! warning Disclaimer
     Comme précisé dans le PDF de la première synthèse d'éco lors du Q1, il ne s'agit pas d'un résumé exhaustif de la matière. Mais bien de ma synthèse que je vous partage, parce que je suis gentil.
 
     Ce qui implique qu'il y a des choses qui peuvent manquer, voir des choses qui peuvent être incorrectes. A vous de rester attentif en tout temps pour éviter ces problèmes malencontreux.
@@ -200,15 +208,26 @@
     DELZOTTI Clément
 
 !!! info Version
-    Nous sommes actuellement à la version : **0.1.1**
+    Nous sommes actuellement à la version : **1.0**
 
 !!! success Récemment corrigé
-    Que dalle, c'est la première version :3
-
+    Ajout du chapitre 19
 !!! info A venir
-    - Le chapitre 19
-    - Un magnifique menu sur cette page pour naviguer entre les chapitres
     - Une release en format HTML
 
 !!! tip Les bons conseils
-    Refaites les TPs, TOUS les TPs.
+    Refaites les TPs, TOUT les TPs.
+
+## Liste des chapitres
+
+<ul class="sommaire">
+  <li><a href="markdown-files/Chap11">Chapitre 11 : Travail facteur de production</li>
+  <li><a href="markdown-files/Chap12">Chapitre 12 : Impefections du marché du travail</li>
+  <li><a href="markdown-files/Chap13">Chapitre 13 : Marché des fonds prêtables et prix du temps</li>
+  <li><a href="markdown-files/Chap14">Chapitre 14 : Marché de l'assurance et prix de la sécurité</li>
+  <li><a href="markdown-files/Chap15">Chapitre 15 : Produit national et équilibre macroéconomique</li>
+  <li><a href="markdown-files/Chap16">Chapitre 16 : Economie ouverte, échange et paiment</li>
+  <li><a href="markdown-files/Chap17">Chapitre 17 : Croissance économique</li>
+  <li><a href="markdown-files/Chap18">Chapitre 18 : Marché monétaire et bancaire</li>
+  <li><a href="markdown-files/Chap19">Chapitre 19 : Offre et demande aggrégées</li>
+</ul>
