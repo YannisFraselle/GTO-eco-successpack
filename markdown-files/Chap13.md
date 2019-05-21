@@ -194,11 +194,11 @@ list-style-type: lower-roman;
 ## Prix du temps
 
 Il est préférable d'avoir une somme donnée maintenant plutôt que plus tard. Parce que :
-- On pourrait crever d'ici là
-- Les prix pourrait augmenter d'ici là
+- On pourrait crever d'ici là.
+- Les prix pourrait augmenter d'ici là.
 - Cela donne plus de liberté pour investir, épargner, ect...
 
-C'est cela qui a un prix lors d'un prêt, et qui explique l'existence d'intérêts
+C'est cela qui a un prix lors d'un prêt, et qui explique l'existence d'intérêts.
 
 ## Intérêts simples
 
@@ -206,8 +206,8 @@ C'est cela qui a un prix lors d'un prêt, et qui explique l'existence d'intérê
 
 $V_F = V_A(1 + i) \Leftrightarrow V_A = \frac{V_F}{(1 + i)}$ &nbsp;
 
-- La **Valeur actualisée** est le montant que l'on peut emprunter au temps t en échange de la cession du montant futur Y au temps t + s
-- La **valeur future** est le montant qu'on peut obtenir au temps t + s en échange du dépôt immédiat de ce montant
+- La **Valeur actualisée** est le montant que l'on peut emprunter au temps t en échange de la cession du montant futur Y au temps t + s.
+- La **valeur future** est le montant qu'on peut obtenir au temps t + s en échange du dépôt immédiat de ce montant.
 
 ## Intérêts composés
 
@@ -233,7 +233,7 @@ Prime de risque : Taux supplémentaire, généralement à la tête du client, d�
 
 #### Contrainte de budget
 
-Sans épargne, il n'est possible de consommer que ce qu'on possède à l'instant t. Si on ne gange rien à l'instant t + 1, alors je ne consomme rien
+Sans épargne, il n'est possible de consommer que ce qu'on possède à l'instant t. Si on ne gange rien à l'instant t + 1, alors je ne consomme rien.
 
 $C_t = A_t$ et $C_{t + 1} = A_{t+1}$ &nbsp;
 
@@ -243,11 +243,11 @@ $C_t = A_t + E_t$ et $C_{t+1} = A_{t+1} - E_t(1 + r)$
 
 $\frac{C_t + C_{t+1}}{1 + r} = A_t + \frac{A_{t+1}}{1+r} = B$
 
-Un prêt peut être intéressant pour avoir un revenu plus stable $\Leftrightarrow$ *Lissage*
+Un prêt peut être intéressant pour avoir un revenu plus stable $\Leftrightarrow$ *Lissage*.
 
 #### La demande de production
 
-Demande de prêt pour financer une production : Louer l'argent pour acheter l'équipement plutôt que de louer l'équipement K
+Demande de prêt pour financer une production : Louer l'argent pour acheter l'équipement plutôt que de louer l'équipement K.
 
 #### Courbe de demande
 
@@ -257,7 +257,7 @@ Demande de prêt pour financer une production : Louer l'argent pour acheter l'é
 
 ### L'épargne
 
-Il s'agit du même principe que celui du prêt décrit dans la contrainte de budget, sauf que l'intérêt y est négatif
+Il s'agit du même principe que celui du prêt décrit dans la contrainte de budget, sauf que l'intérêt y est négatif.
 
 ### Courbe d'offre
 
@@ -267,7 +267,7 @@ Il s'agit du même principe que celui du prêt décrit dans la contrainte de bud
 
 <img src="../attachment/eco26.png"/>
 
-Ce marché génère bien des gains d'échanges, des surplus
+Ce marché génère bien des gains d'échanges, des surplus.
 
 ### Théorie de la croissance
 
