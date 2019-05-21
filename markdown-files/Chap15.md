@@ -196,34 +196,34 @@ list-style-type: lower-roman;
 
 ## Origines de l'analyse macroécronomique
 
-- Les questions monétaires
-- Rôle de l’or et autres métaux monétaires (18e et 19e siècles),
-- Crises bancaires (18e et 19e siècles) + 2008
-- Les cycles d’activité
+- Les questions monétaires.
+- Rôle de l’or et autres métaux monétaires (18e et 19e siècles).
+- Crises bancaires (18e et 19e siècles) + 2008.
+- Les cycles d’activité.
 - Découvertes, investissements, ralentissements (19e et 20e s.).
-- Les dettes internationales
-- Keynes « conséquences économiques de la paix » 1919,
-- Keynes « conséquences économiques de Churchill » 1925,
+- Les dettes internationales.
+- Keynes « conséquences économiques de la paix » 1919.
+- Keynes « conséquences économiques de Churchill » 1925.
 - Cessation de paiement du Mexique en 1982.
-- L’hyperinflation
+- L’hyperinflation.
 - Allemagne 1923, Europe centrale, Amérique latine.
-- Le chômage de masse, surtout dans les années 1930
+- Le chômage de masse, surtout dans les années 1930.
 - Keynes « Théorie Générale, de l’emploi, du taux d’intérêt et de la monnaie » 1936 : Le problème de la demande et déflation.
-- La crise pétrolière 1973-79
+- La crise pétrolière 1973-79.
 - Le problème de l’offre et des attentes d’inflation.
 
 Origine de la ruée vers l'or ?
 
-Explosion de la production par la révolution industrielle, mais pas d'explosion de la quantité d'or. Echange billet de banque <> Or possible à l'époque, impression de billet limitée, car si un banque imprimait top de billet elle se retrouvait baisée si lors d'un coup de panique les gens venaient échanger leurs billets contre de l'or.
+Explosion de la production par la révolution industrielle, mais pas d'explosion de la quantité d'or. Echange billet de banque <> Or possible à l'époque, impression de billet limitée, car si un banque imprimait trop de billet elle se retrouvait baisée si lors d'un coup de panique les gens venaient échanger leurs billets contre de l'or.
 
 ## Particularités de la macroéconomie
 
-- Les marchés sont interdépendants
-- L'ensemble n'est pas la somme des parties : (*ex : Un embouteillage n'est pas juste une somme de voiture, il faut aussi prendre en compte les relations entre les voitures.. Ce ne sont pas directement les voitures qui cuasent les bouchons, mais le fait que l'ammas de voiture provoque une impossibilité de synchroniser les déplacements des voitures*), qui est à l'origine du bouchon
-- Les agrégats sont intéressants, ils peuvent être très indiquateurs sur l'état de l'économie (*ex : PIB, taux de chômage*)
-- La dimension temps
-- Problèmes des ajustements qui prennent du temps (**marchés incomplets**)
-- Rôle de la monnaie : transfert de pouvoir d'achat dans le temps
+- Les marchés sont interdépendants.
+- L'ensemble n'est pas la somme des parties : (*ex : Un embouteillage n'est pas juste une somme de voiture, il faut aussi prendre en compte les relations entre les voitures.. Ce ne sont pas directement les voitures qui causent les bouchons, mais le fait que l'amas de voiture provoque une impossibilité de synchroniser les déplacements des voitures*), qui est à l'origine du bouchon.
+- Les agrégats sont intéressants, ils peuvent être très indiquateurs sur l'état de l'économie (*ex : PIB, taux de chômage*).
+- La dimension temps.
+- Problèmes des ajustements qui prennent du temps (**marchés incomplets**).
+- Rôle de la monnaie : transfert de pouvoir d'achat dans le temps.
 
 ## Marché des biens : PIB
 
@@ -256,16 +256,16 @@ Dans les biens finaux, il peut y avoir des éléments qui n'ont pas été produi
 <span style="color: blue;">Exemple illustratif : Le boulanger de l'exemple précédent</span>
 
 
-- **Production** = V= $Q^S$ => (Valeur ajoutée par secteur) : Le PIB peut être calculé en faisant la somme des valeurs ajoutées brutes lors de toutes les étapes du processus de production, comme vu précédemment
-- <span style="color: blue;">Lorsque le boulanger produit du pain, il contribue à ajouter de la valeur</span>
+- **Production** = V= $Q^S$ => (Valeur ajoutée par secteur) : Le PIB peut être calculé en faisant la somme des valeurs ajoutées brutes lors de toutes les étapes du processus de production, comme vu précédemment.
+- <span style="color: blue;">Lorsque le boulanger produit du pain, il contribue à ajouter de la valeur.</span>
 - **Absorption** = A = $Q^D$ => (Destination finalle des productions) : On peut aussi calculer le PIB comme étant la somme des achats finaux des biens produits.
-- <span style="color: blue;">Le pain que le boulanger produit va être acheté par des consommateurs</span>
-- **Revenu** = Y => (rétribution des facteurs de production): On peut calculer le PIB en faisant la somme des revenus distribués aux facteurs de production qui ont contribués à ajouter de la valeur
-- <span style="color: blue;">La valeur ajouté brute de la production du bouanger premt de rémunérer les facteurs de production qui ont contribués à ajouter de la valeur</span>
-- **Utilisation** = $Y_d$ => (usage du revenu disponible en onsommation et épargne) : On peut calculer le PIB en faisant la somme de l'épargne et des dépenses de consmmation de tous les agents
-- <span style="color: blue;">Les revenus d'un détenteur de facteurs de production consitutent son revenu disponible, qu'il va pouvoir utiliser à deux finalité : la consommation et l'épargne</span>
+- <span style="color: blue;">Le pain que le boulanger produit va être acheté par des consommateurs.</span>
+- **Revenu** = Y => (rétribution des facteurs de production): On peut calculer le PIB en faisant la somme des revenus distribués aux facteurs de production qui ont contribués à ajouter de la valeur.
+- <span style="color: blue;">La valeur ajouté brute de la production du bouanger premt de rémunérer les facteurs de production qui ont contribués à ajouter de la valeur.</span>
+- **Utilisation** = $Y_d$ => (usage du revenu disponible en onsommation et épargne) : On peut calculer le PIB en faisant la somme de l'épargne et des dépenses de consmmation de tous les agents.
+- <span style="color: blue;">Les revenus d'un détenteur de facteurs de production consitutent son revenu disponible, qu'il va pouvoir utiliser à deux finalité : la consommation et l'épargne.</span>
 
-Ces quatres optique de calcul de PIB doivent être équivalentes
+Ces quatres optique de calcul de PIB doivent être équivalentes.
 
 Le PIB se calcule sur 4 agents : les ménages, les entreprises, l'Etat et le reste du monde.
 
@@ -274,56 +274,56 @@ Le PIB se calcule sur 4 agents : les ménages, les entreprises, l'Etat et le res
 <img src="../attachment/eco45.png">
 
 Dans cette situation, précisons que :
-- Les entreprises produisent des biens et des services en créant de la valeur ajoutée
-- Les ménages achètent des biens de consommation et des biens d'inverstissement produits par les entreprises
-- Les entreprises sont locataires des mouens de production et paient aux ménages un salaire pour le travail engagé et un loyer pour le capital utilisé
-- Les ménages consomment une partie de leur revenu et en épargnent le reste
+- Les entreprises produisent des biens et des services en créant de la valeur ajoutée.
+- Les ménages achètent des biens de consommation et des biens d'inverstissement produits par les entreprises.
+- Les entreprises sont locataires des moyens de production et paient aux ménages un salaire pour le travail engagé et un loyer pour le capital utilisé.
+- Les ménages consomment une partie de leur revenu et en épargnent le reste.
 
-<marquee><h5> Il est maintenant l'heure de l'Instant définitions</h5></marquee>
+<marquee><h5>Il est maintenant l'heure de l'Instant définitions</h5></marquee>
 
 <table style="border : 3px solid red; box-shadow: 10px 5px 5px red;">
 <tr>
-<td>La <b>consommation</b> est une opération économique consistant en l'utilisation immédiate de biens ou services ui seront détruits dans ce processus</td>
+<td>La <b>consommation</b> est une opération économique consistant en l'utilisation immédiate de biens ou services ui seront détruits dans ce processus.</td>
 </tr>
 <tr>
-<td>L'<b>investissement</b> est une opération réalisée par un agent économique consistant à acquérir des moyens de production destinés à être mis en location et à servir plusieurs fois</td>
+<td>L'<b>investissement</b> est une opération réalisée par un agent économique consistant à acquérir des moyens de production destinés à être mis en location et à servir plusieurs fois.</td>
 </tr>
 <tr>
-<td>Le <b>revenu disponible</b> d'un agent est le montant monétaire dont il a la libre disposition pour sa consommmation et son épargne, après l'obtention des revenus des facteurs de production dont il est le détenteur et des transferts nets dont il est le bénéficiaires</td>
+<td>Le <b>revenu disponible</b> d'un agent est le montant monétaire dont il a la libre disposition pour sa consommmation et son épargne, après l'obtention des revenus des facteurs de production dont il est le détenteur et des transferts nets dont il est le bénéficiaires.</td>
 </tr>
 <tr>
-<td>L'<b>épargne</b> est la patie du revenu disponibe qui n'est pas consommée</td>
+<td>L'<b>épargne</b> est la partie du revenu disponibe qui n'est pas consommée.</td>
 </tr>
 </table>
 
-<marquee><h5> C'était l'Instant définitions </h5></marquee>
+<marquee><h5>C'était l'Instant définitions.</h5></marquee>
 
 En mettant en place les optiques de calcul de PIB vues précédements :
-1. **Optique de production** : $V = \sum VAB$ : Somme des valeurs ajoutées
+1. **Optique de production** : $V = \sum VAB$ : Somme des valeurs ajoutées.
 2. **Optique d'absorbtion de la production** : $Q^D = C + I$ : Biens de consommation (C) + Investissement (I)
-3. **Optique de revenu** : $Y = wL + rK$ : Rémunération des salaires (*wL* : Salaire * Quantité de travail) + Revenus bruts de capitaux des agents (*rK* : Taux d'intérêts multipliés par le stock de capital)
+3. **Optique de revenu** : $Y = wL + rK$ : Rémunération des salaires (*wL* : Salaire * Quantité de travail) + Revenus bruts de capitaux des agents (*rK* : Taux d'intérêts multipliés par le stock de capital).
 4. **Optique d'utilisation du revenu disponible** : $Y_d = C + S$ : Achat de biens de consommation (C) + épargne (S)
 
 Ces mesures sont équivalentes, et les égalités peuvent vouloir dire plusieurs choses:
 
-- $V + Q^D$ : Tout ce qui est produit doit être absorbé
-- $V + Y$ : tout produit génère un revenu
-- $Y = Y_d$ : tout le revenu doit être alloué à quelque chose
+- $V + Q^D$ : Tout ce qui est produit doit être absorbé.
+- $V + Y$ : tout produit génère un revenu.
+- $Y = Y_d$ : tout le revenu doit être alloué à quelque chose.
 
 $Q^D = Y_d \Leftrightarrow C + S = C + I \Leftrightarrow S = I$
 
-**<span style="color:red;">S = I, l'épargne finance l'investissement</span>**
+**<span style="color:red;">S = I, l'épargne finance l'investissement.</span>**
 
 
 #### Economie à trois agents : ménages, entreprises et Etat
 
-Il faut maitnenant considérer l'Etat, qui a une activité productive (enseignement, police, justice) et une consommation (Services achetés et salaires payés).Il acquiert également des biens d'investissement (Des autoroutes).
+Il faut maintenant considérer l'Etat, qui a une activité productive (enseignement, police, justice) et une consommation (services achetés et salaires payés). Il acquiert également des biens d'investissement (des autoroutes).
 
-En plus de cela, l'état à ue fonction redistributive (allocs, pensions)
+En plus de cela, l'état à une fonction redistributive (allocs, pensions).
 
 <table style="border : 3px solid red;">
 <tr>
-<td>Un <b>transfert</b> est un mouvement monétaire qui n'a pas de contrepartie productive, mais qui a une jsutification redistributive</td>
+<td>Un <b>transfert</b> est un mouvement monétaire qui n'a pas de contrepartie productive, mais qui a une justification redistributive.</td>
 </tr>
 </table>
 
@@ -336,23 +336,24 @@ En plus de cela, l'état à ue fonction redistributive (allocs, pensions)
 
 #### Economie à quatre agents : ménages, entreprises, Etat, reste du monde
 
-Il est maintenant nécessaire t'introduire dans les calculs les pays étrangers, qu'on appèlera ici *reste du monde*. On parlera alors de ***PNB***
+Il est maintenant nécessaire d'introduire dans les calculs les pays étrangers, qu'on appellera ici *reste du monde*. On parlera alors de ***PNB***.
 
-Ce nouvel agent amène une nouvelle notion, **la balance**, qui sert d'indicateur pour les exportations-importations en les classant en trois catégories : les échanges de biens et services, les revenus de facteurs et les transferts courants
-- La balance des biens et services : $X_{BS} - M_{BS'}$, soit
-- $X$ les exportations
-- $M$ les importations
-- $BS$ désigne les Biens et service
-- La balace courante : $X_{BSFT} - M_{BSFT}$.
-- $F$ les revenus de facteurs
-- $T$ les transferts courants
+Ce nouvel agent amène une nouvelle notion, **la balance**, qui sert d'indicateur pour les exportations-importations en les classant en trois catégories : les échanges de biens et services, les revenus de facteurs et les transferts courants.
+
+La balance des biens et services : $X_{BS} - M_{BS'}$, soit
+- $X$ les exportations.
+- $M$ les importations.
+- $BS$ désigne les Biens et service.  
+La balance courante : $X_{BSFT} - M_{BSFT}$, soit
+- $F$ les revenus de facteurs.
+- $T$ les transferts courants.
 
 ##### Le calcul selon les optiques
 
 1. ***optique de production*** : $V = VAB_{mén} + VAB_{ent} + VAB_{Etat} + X_F - M_F$
 2. ***optique d'absorbtion*** : $Q^D = C+G+I_P+I_G+X_{BSF} - M_{BSF'}$.
-3. ***optique de revenu*** : $Y = wL + rK$ : On prend maintenant en compte les revenu des ressortissants du pays étudié même s'ils sont hors du pays, et on exclu les revenus des imigrés qui nous volent notre travail
-4. ***optique d'utilisation du revenu disponible*** : $Y_d = C + G + S_P + S_G$ : Par soucis de implification, le reste du monde est abent des transferts qui distinguent le revenu disponible national du revenu primaire national.
+3. ***optique de revenu*** : $Y = wL + rK$ : On prend maintenant en compte les revenu des ressortissants du pays étudié même s'ils sont hors du pays, et on exclu les revenus des immigrés qui nous volent notre travail.
+4. ***optique d'utilisation du revenu disponible*** : $Y_d = C + G + S_P + S_G$ : Par soucis de simplification, le reste du monde est absent des transferts qui distinguent le revenu disponible national du revenu primaire national.
 
 
 Par l'équation obtenue en égalisant le point 2 et le point 4, on obtient: $S_P + S_G - I_P - I_G = X_{BSF} - M_{BSF'}$, et comme le dit Alain parce que j'ai la flemme de retaper ça :
@@ -361,10 +362,10 @@ Par l'équation obtenue en égalisant le point 2 et le point 4, on obtient: $S_P
 
 ### Limites du PIB
 
-- Aucune indication sur le bien-être des habitants
-- Le PIB ignore les activités non rémunérées
-- Traitement égal entre les dépenses classiques et les dépenses curatives pour restaurer le bien-être suite à des activités destructrices (ex : *vente d'antidépresseurs*)
-- Le PIB ignore la pénibilité du travail, comme la durée du temps de travail
+- Aucune indication sur le bien-être des habitants.
+- Le PIB ignore les activités non rémunérées.
+- Traitement égal entre les dépenses classiques et les dépenses curatives pour restaurer le bien-être suite à des activités destructrices (ex : *vente d'antidépresseurs*).
+- Le PIB ignore la pénibilité du travail, comme la durée du temps de travail.
 
 
 <!-- ##### Produit National Brut
@@ -374,14 +375,14 @@ $PNB + PIB + X_F - M_F$
 - Optique de production : $V = \sum VAB$
 - Optique d'absorbtion : $Q^D = C + G + I + X_{BSF} - M{BSF}$
 - Optique de revenu : $Y = wL + rk + T_{i}$
-- $T_i$ : Taxes indirectes
+- $T_i$ : Taxes indirectes.
 - Optique d'utlisation du revenu disponible brut : $Y_d = C + G + S_P + S_G$ -->
 
 ## Le paradoxe de l'épargne
 
 <center><img src="../attachment/eco47.png" /></center>
 
-Nous assistons ici à une différence entre ce qui est individuellement rationnel et ce qui l'est collectivement. C'est une situation typique de la macroéconomie : *le tout n'est pas simplement la somme des parties*
+Nous assistons ici à une différence entre ce qui est individuellement rationnel et ce qui l'est collectivement. C'est une situation typique de la macroéconomie : *le tout n'est pas simplement la somme des parties*.
 
 ## Marché des capitaux et stabilisation de dette
 
@@ -395,7 +396,7 @@ Sans surprise, pour qu'une dette se stabilise, il faut qu'elle ne croisse pas pl
 
 $d= \frac{(D_{t+1} - D_t)}{D_t} = g = \frac{Y_{t+1} - Y_t}{Y_t}$.
 
-Soit $d$ le taux de croissance de la dette et $g$ le taux de croissance du PIB
+Soit $d$ le taux de croissance de la dette et $g$ le taux de croissance du PIB.
 
 Parce qu'Alain l'a dit, le taux de croissance de la dette est égal au déficit divisé par la dette:
 
@@ -412,7 +413,7 @@ On peut donc réduire sa dette en baissant le déficit, mais aussi en augmentant
 Le point de vue macroéconomique différencie deux types de chômages :
 
 - ***Le chômage cyclique*** : Chômage dépendant des fluctuations du PIB, les moments de plus grosses production nécessitant plus de travail.
-- ***Le chômage structurel*** : chômage durable, considéré comme une résultante de l'organisation institutionnelle du marché, de ses réglementations, de celles du marché des biens qui interfèrent avec le marché du travail
+- ***Le chômage structurel*** : chômage durable, considéré comme une résultante de l'organisation institutionnelle du marché, de ses réglementations, de celles du marché des biens qui interfèrent avec le marché du travail.
 
 ## Marché des échanges internationaux
 
