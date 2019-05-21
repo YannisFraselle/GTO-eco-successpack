@@ -343,7 +343,8 @@ Ce nouvel agent amène une nouvelle notion, **la balance**, qui sert d'indicateu
 La balance des biens et services : $X_{BS} - M_{BS'}$, soit
 - $X$ les exportations.
 - $M$ les importations.
-- $BS$ désigne les Biens et service.  
+- $BS$ désigne les Biens et service.
+
 La balance courante : $X_{BSFT} - M_{BSFT}$, soit
 - $F$ les revenus de facteurs.
 - $T$ les transferts courants.
