@@ -221,7 +221,7 @@ Facteurs d'inflation : $\frac{P^{e}_{t+1}}{P_t} = (1 + \Pi^e)$
 
 Facteur d'intérêt réel : $1 + r^e = \frac{Q^e_{t + 1}}{Q_t}$ &nbsp;
 
-Facteur d'intérêt npminal : $\frac{VF}{VA} = (1 + \Pi^e)(1 + r^e) = 1 + i$
+Facteur d'intérêt nominal : $\frac{VF}{VA} = (1 + \Pi^e)(1 + r^e) = 1 + i$
 
 Décomposition de Fischer : $i = r + \Pi^e + r\Pi^e  = r + \Pi^e$ (Approximation car $r\Pi^e$ est négligeable)
 
