@@ -233,7 +233,7 @@ Prime de risque : Taux supplémentaire, généralement à la tête du client, d�
 
 #### Contrainte de budget
 
-Sans épargne, il n'est possible de consommer que ce qu'on possède à l'instant t. Si on ne gange rien à l'instant t + 1, alors je ne consomme rien.
+Sans épargne, il n'est possible de consommer que ce qu'on possède à l'instant t. Si on ne change rien à l'instant t + 1, alors je ne consomme rien.
 
 $C_t = A_t$ et $C_{t + 1} = A_{t+1}$ &nbsp;
 
