@@ -413,7 +413,7 @@ On peut donc réduire sa dette en baissant le déficit, mais aussi en augmentant
 
 Le point de vue macroéconomique différencie deux types de chômages :
 
-- ***Le chômage cyclique*** : Chômage dépendant des fluctuations du PIB, les moments de plus grosses production nécessitant plus de travail.
+- ***Le chômage cyclique*** : chômage dépendant des fluctuations du PIB, les moments de plus grosses production nécessitant plus de travail.
 - ***Le chômage structurel*** : chômage durable, considéré comme une résultante de l'organisation institutionnelle du marché, de ses réglementations, de celles du marché des biens qui interfèrent avec le marché du travail.
 
 ## Marché des échanges internationaux
@@ -422,7 +422,7 @@ Comme vu précédemment, l'épargne finance l'investissement et les exportations
 
 $S = I + (X_{BSFT} - M_{BSFT})$
 
-Dans le cas où où l'épargne ne suffit pas à financer l'inestissement, le pays aura un déficit extérieur tel que :
+Dans le cas où où l'épargne ne suffit pas à financer l'investissement, le pays aura un déficit extérieur tel que :
 
 $S - I = (X_{BSFT} - M_{BSFT}) < 0$
 
