@@ -228,8 +228,8 @@ Voilà donc les trois source de coissance du PIB, et pour augmenter ce dernier, 
 
 Pour accumuler du capital afin d'augmenter le PIB, il faut pouvoir répondre à 3 contraintes :
 
-1. ***Contrainte de productivité*** : Le rendement marginal du capital accumulé tend à être décroissant (Pour ceux qui dorment au fond, ça veut dire que la valeur que rajoute le capital au PIB tend à diminer au fil du temps)
-2. ***Contrainte de création de Capital*** : Il faut pouvoir renoncer à consommer une partie de la production pour qu'elle puisse être réinvestie afin de créer plus de capital
+1. ***Contrainte de productivité*** : Le rendement marginal du capital accumulé tend à être décroissant (Pour ceux qui dorment au fond, ça veut dire que la valeur que rajoute le capital au PIB tend à diminer au fil du temps).
+2. ***Contrainte de création de Capital*** : Il faut pouvoir renoncer à consommer une partie de la production pour qu'elle puisse être réinvestie afin de créer plus de capital.
 3. ***Contrainte de maintient du stock de capital*** : Il faut également pouvoir renoncer à de la consommation, cette fois chaque année, afin de maintenir la capacité de production.
 
 ### Petit exemple de derrière les fagots
@@ -243,24 +243,24 @@ D | Investissement net | 0 | 20 | 0
 E | Consommation : A - C - D | 90 | 70 | 91
 
 
-1. Comme vu au même point précédemment, la fonction de production a un rendement décroissant, ce qui implique que le capital ajouté à la production apporte de moins en moins au fur et à mesure qu'il est accumulé
-2. Il faut, à un moment, accepter de consommer moins pour épargner afin d'investir dans la production (Visible dans le tableau en E et en D au temps t + 1)
-3. Il faut aussi douiller chaque année pour permettre au capital de se renouveller
+1. Comme vu au même point précédemment, la fonction de production a un rendement décroissant, ce qui implique que le capital ajouté à la production apporte de moins en moins au fur et à mesure qu'il est accumulé.
+2. Il faut, à un moment, accepter de consommer moins pour épargner afin d'investir dans la production (Visible dans le tableau en E et en D au temps t + 1).
+3. Il faut aussi douiller chaque année pour permettre au capital de se renouveller.
 
 Etant donné le point 3, il est nécessaire de considérer un capital Brut, qui est le capital perçu dans son intégralité, et le salaire net, qui est le Capital auquel on a retiré les frais nécessaire à son renouvellement.
 
 ### Conditions d'accumulation du capital
 
-On e dégage deux, qui sont :
+On en dégage deux, qui sont :
 
-1. Il faut que l'augmentation du capital soit suppérieure à l'augmentation des coûts de renouvellement du même capital.
-2. Il faut que l'augmentation du capital soit suffisante que pour justifier l'épargne pour le provoquer (Il est con de demander à quelqu'un de se priver de 350287502O75€ sur un mois pour que ses revenus puissent augmenter de 0,00001 %)
+1. Il faut que l'augmentation du capital soit supérieure à l'augmentation des coûts de renouvellement du même capital.
+2. Il faut que l'augmentation du capital soit suffisante que pour justifier l'épargne pour le provoquer (Il est con de demander à quelqu'un de se priver de 350287502O75€ sur un mois pour que ses revenus puissent augmenter de 0,00001 %).
 
 ## Contribution et limites du facteur de travail
 
 ### Production par habitant et par travailleur
 
-Le produit marginal du travail est décroissant, ce qui veut dire que plus on a de travailleur, plus l'impact d'un travailleur sur la production est faible
+Le produit marginal du travail est décroissant, ce qui veut dire que plus on a de travailleur, plus l'impact d'un travailleur sur la production est faible.
 
 On mesure la capacité d'un pays à satisfaire la consommation de ses habitants par la production par habitant ($\frac{Y}{N}$) et la productivité est quant à elle mesurée en production par travailleur ($\frac{Y}{L}$).
 
