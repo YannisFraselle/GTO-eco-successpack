@@ -192,10 +192,10 @@ list-style-type: lower-roman;
 
 <table class="table_red">
 <tr>
-<td>La <b>demande agrégée</b> représente les possibilités d'absorption de biens à prix donnés, TACEPA</td>
+<td>La <b>demande agrégée</b> représente les possibilités d'absorption de biens à prix donnés, TACEPA.</td>
 </tr>
 <tr>
-<td>L'<b>offre agrégée</b> représente les possibilités de fournir de biens à prix donnés, TACEPA</td>
+<td>L'<b>offre agrégée</b> représente les possibilités de fournir de biens à prix donnés, TACEPA.</td>
 </tr>
 </table>
 
@@ -203,7 +203,7 @@ list-style-type: lower-roman;
 
 ### Pentes des courbes
 
-Il est intéressant de préciser que les pentes ne représentent plus les mêmes choses que celles des fonctions d'offres et de demandes à l'échelle macroéconomique. Ici, la pente de la demande représente la disponibilité de moyens de payment et celle de l'offre reflète la disponibilité à fournir des biens.
+Il est intéressant de préciser que les pentes ne représentent plus les mêmes choses que celles des fonctions d'offres et de demandes à l'échelle macroéconomique. Ici, la pente de la demande représente la disponibilité de moyens de paiement et celle de l'offre reflète la disponibilité à fournir des biens.
 
 ## Demande agrégée
 
@@ -212,14 +212,14 @@ Il est intéressant de préciser que les pentes ne représentent plus les mêmes
 <img src="../attachment/eco81.png" style="width : 60%;"/>
 
 La **fonction de demande agrégée** représente la quantité produite (*et donc le PIB*) comme une fonction de :
-- L'indice des prix
-- La masse monétaire
-- La vélocité de la monnaie
-- Des composantes d'absorbtion
-- Le taux de change e
-- Le taux d'intrêt i
-- L'évolution attendue des prix
-- Et bien d'autres
+- L'indice des prix.
+- La masse monétaire.
+- La vélocité de la monnaie.
+- Des composantes d'absorbtion.
+- Le taux de change e.
+- Le taux d'intrêt i.
+- L'évolution attendue des prix.
+- Et bien d'autres ...
 
 Si on veut une notation mathématique inutile, ça donne:
 
@@ -238,11 +238,11 @@ Cela est très bien expliqué par l'exercice 3 du dernier TP :)
 ### Construction
 
 La **fonction d'offre agrégée** représente la quantité produite (*et donc le PIB*) comme une fonction de :
-- L'indice des prix
-- Le coût réel du travail
-- L'avancement technologique
-- L'évolution attendue des prix
-- Et bien d'autres
+- L'indice des prix.
+- Le coût réel du travail.
+- L'avancement technologique.
+- L'évolution attendue des prix.
+- Et bien d'autres ...
 
 Si on veut une notation mathématique inutile, ça donne:
 
@@ -256,12 +256,12 @@ $OA:Q = Q^{S} = (P,w,A,P^e,...)$
 *On notera le s à pentes*
 
 Il existe trois sortes de demande agrégée, caractérisées par des pentes différentes:
-- L'offre agrégée de très court terme
-  - Elle possède une pente infiniment élastique, car les prix mettent du temps à évoluer et ne varient pas à très court terme
-- L'offre agrégée de court terme
-  - Elle possède quant à elle des prix et des quantité de bien mis à disposition partiellement variables, ce qui lui donnera une pente random
-- L'offre agrégée de long terme
-    - On suppose que sur le long terme, la production est à son niveau optimum, ce qui induit une pente totalement inélastique
+- L'offre agrégée de très court terme.
+  - Elle possède une pente infiniment élastique, car les prix mettent du temps à évoluer et ne varient pas à très court terme.
+- L'offre agrégée de court terme.
+  - Elle possède quant à elle des prix et des quantité de bien mis à disposition partiellement variables, ce qui lui donnera une pente random.
+- L'offre agrégée de long terme.
+    - On suppose que sur le long terme, la production est à son niveau optimum, ce qui induit une pente totalement inélastique.
 
 Graphiquement, ça donne ça :
 
@@ -272,14 +272,14 @@ Graphiquement, ça donne ça :
 L'exercice 5 du dernier TP est vraiment bien fait quand-même ! Mais sinon on peut analyser les déplacements par type de courbe d'offre agrégée.
 
 Pour l'**offre de long terme**, les facteurs influent sont :
-- L'accumulation de facteurs de production
-- La qualité des biens publiques
-- La pression fiscale
-- Le savoir faire technologique
-- Le pouvoir de négotation des travailleurs
-- Le pouvoir de marché des producteurs
+- L'accumulation de facteurs de production.
+- La qualité des biens publiques.
+- La pression fiscale.
+- Le savoir faire technologique.
+- Le pouvoir de négotiation des travailleurs.
+- Le pouvoir de marché des producteurs.
 
-Pour ce qui est du **court terme**, les modifications de l'offre de long terme l'impacté également. Ce qui est bien sûr logique (et heureusement...) car un modification sur le long terme impique forcément une modification sur le court terme.
+Pour ce qui est du **court terme**, les modifications de l'offre de long terme l'impacte également. Ce qui est bien sûr logique (et heureusement...) car un modification sur le long terme implique forcément une modification sur le court terme.
 
 <img src="../attachment/eco84.png" style="width : 60%;"/>
 
@@ -308,7 +308,7 @@ Nous remercierons Alain pour sa recette miracle pour répondre à ce problème :
 
 ### Chocs d'offre et de demandes
 
-Référez-vous au dernier TPs et éventuellement à d'autre excercices (ex : Corrigé d'examen) pour pouvoir comprendre les mouvements de courbes et leurs méchanismes. Il faut faire joujou avec les courbes pour les comprendre
+Référez-vous au dernier TPs et éventuellement à d'autre excercices (ex : Corrigé d'examen) pour pouvoir comprendre les mouvements de courbes et leurs méchanismes. Il faut faire joujou avec les courbes pour les comprendre.
 
 !!! quote Alain de Crombrugghe <insérer titre de noblesse ici>
     L'économie, ça s'étudie avec du papier et un crayon !
